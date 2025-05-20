@@ -1,6 +1,6 @@
 #  Mean and variance of a discrete  distribution
 
-# Date : 29.04.2025
+# Date : 04.03.2025
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
